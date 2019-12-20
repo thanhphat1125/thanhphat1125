@@ -1,0 +1,10 @@
+C:\Users\PC\Desktop\OrderDrink\OrderDrink\bin\Debug\OrderDrink.exe.config
+C:\Users\PC\Desktop\OrderDrink\OrderDrink\bin\Debug\OrderDrink.exe
+C:\Users\PC\Desktop\OrderDrink\OrderDrink\bin\Debug\OrderDrink.pdb
+C:\Users\PC\Desktop\OrderDrink\OrderDrink\obj\Debug\OrderDrink.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\OrderDrink\OrderDrink\obj\Debug\OrderDrink.Properties.Resources.resources
+C:\Users\PC\Desktop\OrderDrink\OrderDrink\obj\Debug\OrderDrink.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\OrderDrink\OrderDrink\obj\Debug\OrderDrink.exe
+C:\Users\PC\Desktop\OrderDrink\OrderDrink\obj\Debug\OrderDrink.pdb
+C:\Users\PC\Desktop\OrderDrink\OrderDrink\obj\Debug\OrderDrink.fShowCategory.resources
+C:\Users\PC\Desktop\OrderDrink\OrderDrink\obj\Debug\OrderDrink.FormIp.resources

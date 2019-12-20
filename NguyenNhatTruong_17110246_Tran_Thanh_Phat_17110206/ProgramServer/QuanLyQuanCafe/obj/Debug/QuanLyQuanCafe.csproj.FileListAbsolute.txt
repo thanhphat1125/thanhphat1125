@@ -1,0 +1,107 @@
+C:\Users\point\Documents\Visual Studio 2015\Projects\MoHinhBaLop\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+C:\Users\point\Documents\Visual Studio 2015\Projects\MoHinhBaLop\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+C:\Users\point\Documents\Visual Studio 2015\Projects\MoHinhBaLop\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+C:\Users\point\Documents\Visual Studio 2015\Projects\MoHinhBaLop\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+C:\Users\point\Documents\Visual Studio 2015\Projects\MoHinhBaLop\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+C:\Users\point\Documents\Visual Studio 2015\Projects\MoHinhBaLop\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\point\Documents\Visual Studio 2015\Projects\MoHinhBaLop\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
+C:\Users\point\Documents\Visual Studio 2015\Projects\MoHinhBaLop\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\point\Documents\Visual Studio 2015\Projects\MoHinhBaLop\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+C:\Users\point\Documents\Visual Studio 2015\Projects\MoHinhBaLop\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+C:\Users\point\Documents\Visual Studio 2015\Projects\MoHinhBaLop\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccount.resources
+C:\Users\point\Documents\Visual Studio 2015\Projects\MoHinhBaLop\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+C:\Users\point\Desktop\QuanLyQuanCafe_pb2\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+C:\Users\point\Desktop\QuanLyQuanCafe_pb2\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\point\Desktop\QuanLyQuanCafe_pb2\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+C:\Users\point\Desktop\QuanLyQuanCafe_pb2\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+C:\Users\point\Desktop\QuanLyQuanCafe_pb2\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccount.resources
+C:\Users\point\Desktop\QuanLyQuanCafe_pb2\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+C:\Users\point\Desktop\QuanLyQuanCafe_pb2\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+C:\Users\point\Desktop\QuanLyQuanCafe_pb2\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+C:\Users\point\Desktop\QuanLyQuanCafe_pb2\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
+C:\Users\point\Desktop\QuanLyQuanCafe_pb2\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+C:\Users\point\Desktop\QuanLyQuanCafe_pb2\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+C:\Users\point\Desktop\QuanLyQuanCafe_pb2\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+E:\LAP TRINH WINDOW\Đồ án Window\16110183_LeTungPhuong\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+E:\LAP TRINH WINDOW\Đồ án Window\16110183_LeTungPhuong\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+E:\LAP TRINH WINDOW\Đồ án Window\16110183_LeTungPhuong\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+E:\LAP TRINH WINDOW\Đồ án Window\16110183_LeTungPhuong\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+E:\LAP TRINH WINDOW\Đồ án Window\16110183_LeTungPhuong\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+E:\LAP TRINH WINDOW\Đồ án Window\16110183_LeTungPhuong\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+E:\LAP TRINH WINDOW\Đồ án Window\16110183_LeTungPhuong\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccount.resources
+E:\LAP TRINH WINDOW\Đồ án Window\16110183_LeTungPhuong\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+E:\LAP TRINH WINDOW\Đồ án Window\16110183_LeTungPhuong\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+E:\LAP TRINH WINDOW\Đồ án Window\16110183_LeTungPhuong\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+E:\LAP TRINH WINDOW\Đồ án Window\16110183_LeTungPhuong\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+E:\LAP TRINH WINDOW\Đồ án Window\16110183_LeTungPhuong\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
+E:\LAP TRINH WINDOW\Đồ án Window\16110183_LeTungPhuong\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fSearchFood.resources
+C:\Users\PC\Desktop\New folder\QL quan cafe\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\New folder\QL quan cafe\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccount.resources
+C:\Users\PC\Desktop\New folder\QL quan cafe\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+C:\Users\PC\Desktop\New folder\QL quan cafe\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+C:\Users\PC\Desktop\New folder\QL quan cafe\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fSearchFood.resources
+C:\Users\PC\Desktop\New folder\QL quan cafe\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+C:\Users\PC\Desktop\New folder\QL quan cafe\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\PC\Desktop\New folder\QL quan cafe\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\New folder\QL quan cafe\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\New folder\QL quan cafe\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\PC\Desktop\New folder\QL quan cafe\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+C:\Users\PC\Desktop\New folder\QL quan cafe\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+C:\Users\PC\Desktop\New folder\QL quan cafe\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+C:\Users\PC\Desktop\New folder\QL quan cafe\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+C:\Users\PC\Desktop\quản lý quán cafe\QL quan cafe\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+C:\Users\PC\Desktop\quản lý quán cafe\QL quan cafe\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+C:\Users\PC\Desktop\quản lý quán cafe\QL quan cafe\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+C:\Users\PC\Desktop\quản lý quán cafe\QL quan cafe\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\quản lý quán cafe\QL quan cafe\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccount.resources
+C:\Users\PC\Desktop\quản lý quán cafe\QL quan cafe\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+C:\Users\PC\Desktop\quản lý quán cafe\QL quan cafe\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+C:\Users\PC\Desktop\quản lý quán cafe\QL quan cafe\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fSearchFood.resources
+C:\Users\PC\Desktop\quản lý quán cafe\QL quan cafe\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+C:\Users\PC\Desktop\quản lý quán cafe\QL quan cafe\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\PC\Desktop\quản lý quán cafe\QL quan cafe\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\quản lý quán cafe\QL quan cafe\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\quản lý quán cafe\QL quan cafe\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\PC\Desktop\quản lý quán cafe\QL quan cafe\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+D:\Thành Phát\HKI-2019-2020\QL Cafe Design\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+D:\Thành Phát\HKI-2019-2020\QL Cafe Design\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+D:\Thành Phát\HKI-2019-2020\QL Cafe Design\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+D:\Thành Phát\HKI-2019-2020\QL Cafe Design\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojAssemblyReference.cache
+D:\Thành Phát\HKI-2019-2020\QL Cafe Design\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccount.resources
+D:\Thành Phát\HKI-2019-2020\QL Cafe Design\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+D:\Thành Phát\HKI-2019-2020\QL Cafe Design\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+D:\Thành Phát\HKI-2019-2020\QL Cafe Design\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fSearchFood.resources
+D:\Thành Phát\HKI-2019-2020\QL Cafe Design\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+D:\Thành Phát\HKI-2019-2020\QL Cafe Design\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+D:\Thành Phát\HKI-2019-2020\QL Cafe Design\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+D:\Thành Phát\HKI-2019-2020\QL Cafe Design\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+D:\Thành Phát\HKI-2019-2020\QL Cafe Design\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+D:\Thành Phát\HKI-2019-2020\QL Cafe Design\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.ResolveComReference.cache
+F:\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+F:\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+F:\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+F:\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojAssemblyReference.cache
+F:\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.ResolveComReference.cache
+F:\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccount.resources
+F:\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+F:\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+F:\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fSearchFood.resources
+F:\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+F:\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+F:\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+F:\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+F:\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+C:\Users\PC\Desktop\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+C:\Users\PC\Desktop\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+C:\Users\PC\Desktop\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+C:\Users\PC\Desktop\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.ResolveComReference.cache
+C:\Users\PC\Desktop\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccount.resources
+C:\Users\PC\Desktop\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+C:\Users\PC\Desktop\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+C:\Users\PC\Desktop\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fSearchFood.resources
+C:\Users\PC\Desktop\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+C:\Users\PC\Desktop\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\PC\Desktop\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\PC\Desktop\QuanLyQuanCafe_pb1.1\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
